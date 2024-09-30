@@ -1,5 +1,15 @@
 # viem
 
+## 2.21.13
+
+### Patch Changes
+
+- [`9b59c925`](https://github.com/wevm/viem/commit/9b59c9251634538eca251eb0a281d5539e6c09ba) Thanks [@jxom](https://github.com/jxom)! - Updated AstarZkEVM RPC URL.
+
+- [#2756](https://github.com/wevm/viem/pull/2756) [`5e1a13de`](https://github.com/wevm/viem/commit/5e1a13de8d116d176393b4ac93d7933d8d16a676) Thanks [@jeff-0402](https://github.com/jeff-0402)! - Added Mint chain.
+
+- [#2757](https://github.com/wevm/viem/pull/2757) [`60dacc16`](https://github.com/wevm/viem/commit/60dacc16bf2804ee0e70f7eb51401dd06030dc8d) Thanks [@jeff-0402](https://github.com/jeff-0402)! - Added Kinto chain.
+
 ## 2.21.12
 
 ### Patch Changes
